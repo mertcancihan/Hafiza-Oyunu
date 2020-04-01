@@ -1,0 +1,9 @@
+C:\Users\canci\Documents\Visual Studio 2019\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe.config
+C:\Users\canci\Documents\Visual Studio 2019\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe
+C:\Users\canci\Documents\Visual Studio 2019\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.pdb
+C:\Users\canci\Documents\Visual Studio 2019\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csprojAssemblyReference.cache
+C:\Users\canci\Documents\Visual Studio 2019\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza_Oyunu.Properties.Resources.resources
+C:\Users\canci\Documents\Visual Studio 2019\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.GenerateResource.cache
+C:\Users\canci\Documents\Visual Studio 2019\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.exe
+C:\Users\canci\Documents\Visual Studio 2019\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.pdb
+C:\Users\canci\Documents\Visual Studio 2019\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza_Oyunu.Game.resources
